@@ -134,21 +134,12 @@ matplotlib >= 3.7
 |------|-------|
 | **Claude (Anthropic)** | Code generation, explanation, README writing |
 | **Gamma.app** | PowerPoint presentation generation |
-| **Kling AI / Luma Dream Machine** | AI-generated demo videos |
-| **ElevenLabs** | AI voice-over for the presentation video |
+| **Kling AI / HeyGen** | AI-generated demo videos |
 | **Google NotebookLM** | Document synthesis and research |
 
 ---
 
-## 👥 Team
 
-| Name | Role |
-|------|------|
-| [Your Name] | S4 Architecture & PyTorch Implementation |
-| [Teammate 2] | HiPPO Theory & Visualizations |
-| [Teammate 3] | Training Pipeline & Presentation |
-
----
 
 ## 📚 References
 
